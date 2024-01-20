@@ -1,0 +1,9 @@
+:- include('f01_map.pl').
+:- include('f02_initiating.pl').
+:- include('f03_endturn.pl').
+:- include('f04_draft.pl').
+:- include('f05_move.pl').
+:- include('f06_attack.pl').
+:- include('f07_risk.pl').
+:- include('f08_wilayah.pl').
+:- include('f09_player.pl').
